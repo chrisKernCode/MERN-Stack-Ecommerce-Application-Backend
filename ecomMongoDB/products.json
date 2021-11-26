@@ -1,0 +1,498 @@
+[{
+  "_id": {
+    "$oid": "60c2143042d84149281f101d"
+  },
+  "subs": [
+    {
+      "$oid": "60b8fa1526420641b4d76da4"
+    },
+    {
+      "$oid": "60b8fa2726420641b4d76da6"
+    },
+    {
+      "$oid": "60b0de5ac8b50d35c0753896"
+    }
+  ],
+  "sold": 15,
+  "images": [],
+  "title": "Apple Laptop 1",
+  "description": "This is the best Apple product",
+  "price": 4000,
+  "category": {
+    "$oid": "60a16d5f562041321cd1c784"
+  },
+  "shipping": "Yes",
+  "quantity": 45,
+  "color": "Brown",
+  "brand": "Apple",
+  "slug": "apple-laptop-1",
+  "ratings": [
+    {
+      "_id": {
+        "$oid": "60c219a39f2dd0199441e762"
+      },
+      "star": 3,
+      "postedBy": {
+        "$oid": "6092f6b7ad0546469cacda49"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2021-06-10T13:31:28.536Z"
+  },
+  "updatedAt": {
+    "$date": "2021-07-01T13:28:12.593Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c2146342d84149281f101e"
+  },
+  "subs": [
+    {
+      "$oid": "60b8fa2726420641b4d76da6"
+    },
+    {
+      "$oid": "60b8fa1526420641b4d76da4"
+    },
+    {
+      "$oid": "60b0de5ac8b50d35c0753896"
+    }
+  ],
+  "sold": 20,
+  "images": [],
+  "title": "Apple Laptop 2",
+  "description": "This is the best Apple product",
+  "price": 3000,
+  "category": {
+    "$oid": "60a16d5f562041321cd1c784"
+  },
+  "shipping": "Yes",
+  "quantity": 0,
+  "color": "Silver",
+  "brand": "Apple",
+  "slug": "apple-laptop-2",
+  "ratings": [
+    {
+      "_id": {
+        "$oid": "60c219b09f2dd0199441e763"
+      },
+      "star": 4,
+      "postedBy": {
+        "$oid": "6092f6b7ad0546469cacda49"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2021-06-10T13:32:19.949Z"
+  },
+  "updatedAt": {
+    "$date": "2021-07-01T13:28:07.261Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c2148642d84149281f101f"
+  },
+  "subs": [
+    {
+      "$oid": "60b8fa2726420641b4d76da6"
+    },
+    {
+      "$oid": "60c217c89f2dd0199441e755"
+    },
+    {
+      "$oid": "60b8fa1526420641b4d76da4"
+    },
+    {
+      "$oid": "60b0de5ac8b50d35c0753896"
+    }
+  ],
+  "sold": 31,
+  "images": [],
+  "title": "Apple Laptop 3",
+  "description": "This is the best Apple product",
+  "price": 2100,
+  "category": {
+    "$oid": "60a16d5f562041321cd1c784"
+  },
+  "shipping": "Yes",
+  "quantity": 27,
+  "color": "White",
+  "brand": "Apple",
+  "slug": "apple-laptop-3",
+  "ratings": [
+    {
+      "_id": {
+        "$oid": "60c219b89f2dd0199441e764"
+      },
+      "star": 5,
+      "postedBy": {
+        "$oid": "6092f6b7ad0546469cacda49"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2021-06-10T13:32:54.562Z"
+  },
+  "updatedAt": {
+    "$date": "2021-07-01T13:27:57.688Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c214bb42d84149281f1020"
+  },
+  "subs": [
+    {
+      "$oid": "60db4bf2aa7f4d1b84280c5b"
+    },
+    {
+      "$oid": "60db4becaa7f4d1b84280c5a"
+    },
+    {
+      "$oid": "60db4be3aa7f4d1b84280c59"
+    }
+  ],
+  "sold": 11,
+  "images": [],
+  "title": "Lenovo Laptop 1",
+  "description": "This is the best Lenovo product",
+  "price": 1750,
+  "category": {
+    "$oid": "60a12ae22d53c54d10c1ab95"
+  },
+  "shipping": "Yes",
+  "quantity": 59,
+  "color": "Black",
+  "brand": "Lenovo",
+  "slug": "lenovo-laptop-1",
+  "ratings": [
+    {
+      "_id": {
+        "$oid": "60c21a429f2dd0199441e76a"
+      },
+      "star": 3,
+      "postedBy": {
+        "$oid": "6092f6b7ad0546469cacda49"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2021-06-10T13:33:47.778Z"
+  },
+  "updatedAt": {
+    "$date": "2021-07-01T13:27:51.307Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c214de42d84149281f1021"
+  },
+  "subs": [
+    {
+      "$oid": "60db4becaa7f4d1b84280c5a"
+    },
+    {
+      "$oid": "60db4be3aa7f4d1b84280c59"
+    },
+    {
+      "$oid": "60db4bf2aa7f4d1b84280c5b"
+    },
+    {
+      "$oid": "60db4bf8aa7f4d1b84280c5c"
+    }
+  ],
+  "sold": 20,
+  "images": [],
+  "title": "Lenovo Laptop 2",
+  "description": "This is the best Lenovo product",
+  "price": 2500,
+  "category": {
+    "$oid": "60a12ae22d53c54d10c1ab95"
+  },
+  "shipping": "Yes",
+  "quantity": 70,
+  "color": "Brown",
+  "brand": "Lenovo",
+  "slug": "lenovo-laptop-2",
+  "ratings": [
+    {
+      "_id": {
+        "$oid": "60c21a399f2dd0199441e769"
+      },
+      "star": 4,
+      "postedBy": {
+        "$oid": "6092f6b7ad0546469cacda49"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2021-06-10T13:34:22.365Z"
+  },
+  "updatedAt": {
+    "$date": "2021-07-01T13:28:01.331Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c2150142d84149281f1022"
+  },
+  "subs": [
+    {
+      "$oid": "60db4bf8aa7f4d1b84280c5c"
+    },
+    {
+      "$oid": "60db4bf2aa7f4d1b84280c5b"
+    },
+    {
+      "$oid": "60db4becaa7f4d1b84280c5a"
+    }
+  ],
+  "sold": 31,
+  "images": [],
+  "title": "Lenovo Laptop 3",
+  "description": "This is the best Lenovo product",
+  "price": 900,
+  "category": {
+    "$oid": "60a12ae22d53c54d10c1ab95"
+  },
+  "shipping": "Yes",
+  "quantity": 39,
+  "color": "Silver",
+  "brand": "Lenovo",
+  "slug": "lenovo-laptop-3",
+  "ratings": [
+    {
+      "_id": {
+        "$oid": "60c21a179f2dd0199441e768"
+      },
+      "star": 5,
+      "postedBy": {
+        "$oid": "6092f6b7ad0546469cacda49"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2021-06-10T13:34:57.768Z"
+  },
+  "updatedAt": {
+    "$date": "2021-07-01T13:27:28.318Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c218479f2dd0199441e759"
+  },
+  "subs": [
+    {
+      "$oid": "60db4c19aa7f4d1b84280c5d"
+    },
+    {
+      "$oid": "60c217ef9f2dd0199441e758"
+    }
+  ],
+  "sold": 12,
+  "images": [],
+  "title": "Asus Laptop 1",
+  "description": "This is the best Asus product",
+  "price": 700,
+  "category": {
+    "$oid": "60a16ebe562041321cd1c787"
+  },
+  "shipping": "Yes",
+  "quantity": 28,
+  "color": "Black",
+  "brand": "ASUS",
+  "slug": "asus-laptop-1",
+  "ratings": [
+    {
+      "_id": {
+        "$oid": "60c21a0e9f2dd0199441e767"
+      },
+      "star": 4,
+      "postedBy": {
+        "$oid": "6092f6b7ad0546469cacda49"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2021-06-10T13:48:55.683Z"
+  },
+  "updatedAt": {
+    "$date": "2021-07-01T13:27:41.997Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c2186b9f2dd0199441e75a"
+  },
+  "subs": [
+    {
+      "$oid": "60c217ef9f2dd0199441e758"
+    }
+  ],
+  "sold": 22,
+  "images": [],
+  "title": "Asus Laptop 2",
+  "description": "This is the best Asus product",
+  "price": 2000,
+  "category": {
+    "$oid": "60a16ebe562041321cd1c787"
+  },
+  "shipping": "Yes",
+  "quantity": 30,
+  "color": "Blue",
+  "brand": "ASUS",
+  "slug": "asus-laptop-2",
+  "ratings": [
+    {
+      "_id": {
+        "$oid": "60c21a029f2dd0199441e766"
+      },
+      "star": 4,
+      "postedBy": {
+        "$oid": "6092f6b7ad0546469cacda49"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2021-06-10T13:49:31.057Z"
+  },
+  "updatedAt": {
+    "$date": "2021-07-01T13:27:17.205Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c2189c9f2dd0199441e75b"
+  },
+  "subs": [
+    {
+      "$oid": "60db4c19aa7f4d1b84280c5d"
+    }
+  ],
+  "sold": 33,
+  "images": [],
+  "title": "Asus Laptop 3",
+  "description": "This is the best Asus product",
+  "price": 1500,
+  "category": {
+    "$oid": "60a16ebe562041321cd1c787"
+  },
+  "shipping": "Yes",
+  "quantity": 42,
+  "color": "Brown",
+  "brand": "ASUS",
+  "slug": "asus-laptop-3",
+  "ratings": [
+    {
+      "_id": {
+        "$oid": "60c219dd9f2dd0199441e765"
+      },
+      "star": 5,
+      "postedBy": {
+        "$oid": "6092f6b7ad0546469cacda49"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2021-06-10T13:50:20.954Z"
+  },
+  "updatedAt": {
+    "$date": "2021-07-01T13:27:11.133Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c218db9f2dd0199441e75c"
+  },
+  "subs": [
+    {
+      "$oid": "60a67d11539d071c085e7378"
+    },
+    {
+      "$oid": "60a67d2e539d071c085e737a"
+    },
+    {
+      "$oid": "60afc95d46710617b01c8d75"
+    }
+  ],
+  "sold": 15,
+  "images": [],
+  "title": "Microsoft Laptop 1",
+  "description": "This is the best Microsoft product",
+  "price": 700,
+  "category": {
+    "$oid": "60a15c7b562041321cd1c73f"
+  },
+  "shipping": "Yes",
+  "quantity": 15,
+  "color": "Black",
+  "brand": "Microsoft",
+  "slug": "microsoft-laptop-1",
+  "ratings": [
+    {
+      "_id": {
+        "$oid": "60c219969f2dd0199441e761"
+      },
+      "star": 3,
+      "postedBy": {
+        "$oid": "6092f6b7ad0546469cacda49"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2021-06-10T13:51:23.008Z"
+  },
+  "updatedAt": {
+    "$date": "2021-07-01T13:27:05.382Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c218fa9f2dd0199441e75d"
+  },
+  "subs": [
+    {
+      "$oid": "60a67d11539d071c085e7378"
+    },
+    {
+      "$oid": "60a67d2e539d071c085e737a"
+    },
+    {
+      "$oid": "60afc95d46710617b01c8d75"
+    }
+  ],
+  "sold": 36,
+  "images": [],
+  "title": "Microsoft Laptop 2",
+  "description": "This is the best Microsoft product",
+  "price": 800,
+  "category": {
+    "$oid": "60a15c7b562041321cd1c73f"
+  },
+  "shipping": "Yes",
+  "quantity": 14,
+  "color": "Silver",
+  "brand": "Microsoft",
+  "slug": "microsoft-laptop-2",
+  "ratings": [
+    {
+      "_id": {
+        "$oid": "60c2198d9f2dd0199441e760"
+      },
+      "star": 4,
+      "postedBy": {
+        "$oid": "6092f6b7ad0546469cacda49"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2021-06-10T13:51:54.437Z"
+  },
+  "updatedAt": {
+    "$date": "2021-07-01T13:26:58.119Z"
+  },
+  "__v": 0
+}]

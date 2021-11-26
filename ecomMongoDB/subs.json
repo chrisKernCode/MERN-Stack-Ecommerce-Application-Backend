@@ -1,0 +1,253 @@
+[{
+  "_id": {
+    "$oid": "60a67d11539d071c085e7378"
+  },
+  "name": "Sub Category 12",
+  "parent": {
+    "$oid": "60a15c7b562041321cd1c73f"
+  },
+  "slug": "sub-category-12",
+  "createdAt": {
+    "$date": "2021-05-20T15:15:29.992Z"
+  },
+  "updatedAt": {
+    "$date": "2021-06-29T16:35:28.388Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a67d2e539d071c085e737a"
+  },
+  "name": "Sub Category 11",
+  "parent": {
+    "$oid": "60a15c7b562041321cd1c73f"
+  },
+  "slug": "sub-category-11",
+  "createdAt": {
+    "$date": "2021-05-20T15:15:58.858Z"
+  },
+  "updatedAt": {
+    "$date": "2021-06-29T16:35:14.374Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60afaf37581e084864964e3b"
+  },
+  "name": "Sub Category 10",
+  "parent": null,
+  "slug": "sub-category-10",
+  "createdAt": {
+    "$date": "2021-05-27T14:39:51.961Z"
+  },
+  "updatedAt": {
+    "$date": "2021-06-29T16:34:55.273Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60afc95d46710617b01c8d75"
+  },
+  "name": "Sub Category 9",
+  "parent": {
+    "$oid": "60a15c7b562041321cd1c73f"
+  },
+  "slug": "sub-category-9",
+  "createdAt": {
+    "$date": "2021-05-27T16:31:25.919Z"
+  },
+  "updatedAt": {
+    "$date": "2021-06-29T16:34:40.943Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60b0de5ac8b50d35c0753896"
+  },
+  "name": "Sub Category 8",
+  "parent": {
+    "$oid": "60a16d5f562041321cd1c784"
+  },
+  "slug": "sub-category-8",
+  "createdAt": {
+    "$date": "2021-05-28T12:13:14.790Z"
+  },
+  "updatedAt": {
+    "$date": "2021-06-29T16:34:28.177Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60b8fa1526420641b4d76da4"
+  },
+  "name": "Sub Category 7",
+  "parent": {
+    "$oid": "60a16d5f562041321cd1c784"
+  },
+  "slug": "sub-category-7",
+  "createdAt": {
+    "$date": "2021-06-03T15:49:41.326Z"
+  },
+  "updatedAt": {
+    "$date": "2021-06-29T16:34:14.215Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60b8fa2726420641b4d76da6"
+  },
+  "name": "Sub Category 6",
+  "parent": {
+    "$oid": "60a16d5f562041321cd1c784"
+  },
+  "slug": "sub-category-6",
+  "createdAt": {
+    "$date": "2021-06-03T15:49:59.648Z"
+  },
+  "updatedAt": {
+    "$date": "2021-06-29T16:34:02.233Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c217c89f2dd0199441e755"
+  },
+  "name": "Sub Category 5",
+  "parent": {
+    "$oid": "60a16d5f562041321cd1c784"
+  },
+  "slug": "sub-category-5",
+  "createdAt": {
+    "$date": "2021-06-10T13:46:48.832Z"
+  },
+  "updatedAt": {
+    "$date": "2021-06-29T16:33:45.644Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c217ce9f2dd0199441e756"
+  },
+  "name": "Sub Category 4",
+  "parent": null,
+  "slug": "sub-category-4",
+  "createdAt": {
+    "$date": "2021-06-10T13:46:54.191Z"
+  },
+  "updatedAt": {
+    "$date": "2021-06-29T16:32:09.216Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c217e69f2dd0199441e757"
+  },
+  "name": "Sub Category 3",
+  "parent": {
+    "$oid": "60a16ebe562041321cd1c787"
+  },
+  "slug": "sub-category-3",
+  "createdAt": {
+    "$date": "2021-06-10T13:47:18.752Z"
+  },
+  "updatedAt": {
+    "$date": "2021-06-29T16:31:59.707Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c217ef9f2dd0199441e758"
+  },
+  "name": "Sub Category 2",
+  "parent": {
+    "$oid": "60a16ebe562041321cd1c787"
+  },
+  "slug": "sub-category-2",
+  "createdAt": {
+    "$date": "2021-06-10T13:47:27.754Z"
+  },
+  "updatedAt": {
+    "$date": "2021-06-29T16:31:35.549Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60db4be3aa7f4d1b84280c59"
+  },
+  "name": "Sub Category 13",
+  "parent": {
+    "$oid": "60a12ae22d53c54d10c1ab95"
+  },
+  "slug": "sub-category-13",
+  "createdAt": {
+    "$date": "2021-06-29T16:35:47.850Z"
+  },
+  "updatedAt": {
+    "$date": "2021-06-29T16:35:47.850Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60db4becaa7f4d1b84280c5a"
+  },
+  "name": "Sub Category 14",
+  "parent": {
+    "$oid": "60a12ae22d53c54d10c1ab95"
+  },
+  "slug": "sub-category-14",
+  "createdAt": {
+    "$date": "2021-06-29T16:35:56.476Z"
+  },
+  "updatedAt": {
+    "$date": "2021-06-29T16:35:56.476Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60db4bf2aa7f4d1b84280c5b"
+  },
+  "name": "Sub Category 15",
+  "parent": {
+    "$oid": "60a12ae22d53c54d10c1ab95"
+  },
+  "slug": "sub-category-15",
+  "createdAt": {
+    "$date": "2021-06-29T16:36:02.914Z"
+  },
+  "updatedAt": {
+    "$date": "2021-06-29T16:36:02.914Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60db4bf8aa7f4d1b84280c5c"
+  },
+  "name": "Sub Category 16",
+  "parent": {
+    "$oid": "60a12ae22d53c54d10c1ab95"
+  },
+  "slug": "sub-category-16",
+  "createdAt": {
+    "$date": "2021-06-29T16:36:08.689Z"
+  },
+  "updatedAt": {
+    "$date": "2021-06-29T16:36:08.689Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60db4c19aa7f4d1b84280c5d"
+  },
+  "name": "Sub Category 1",
+  "parent": {
+    "$oid": "60a16ebe562041321cd1c787"
+  },
+  "slug": "sub-category-1",
+  "createdAt": {
+    "$date": "2021-06-29T16:36:41.694Z"
+  },
+  "updatedAt": {
+    "$date": "2021-06-29T16:36:41.694Z"
+  },
+  "__v": 0
+}]

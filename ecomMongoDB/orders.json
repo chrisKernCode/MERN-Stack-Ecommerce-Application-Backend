@@ -1,0 +1,253 @@
+[{
+  "_id": {
+    "$oid": "60db48727b5889550caee9e8"
+  },
+  "orderStatus": "Cash On Delivery",
+  "products": [
+    {
+      "_id": {
+        "$oid": "60db486a7b5889550caee9e5"
+      },
+      "product": {
+        "$oid": "60c218db9f2dd0199441e75c"
+      },
+      "count": 1,
+      "color": "Black"
+    },
+    {
+      "_id": {
+        "$oid": "60db486a7b5889550caee9e6"
+      },
+      "product": {
+        "$oid": "60c218479f2dd0199441e759"
+      },
+      "count": 1,
+      "color": "Black"
+    },
+    {
+      "_id": {
+        "$oid": "60db486a7b5889550caee9e7"
+      },
+      "product": {
+        "$oid": "60c214bb42d84149281f1020"
+      },
+      "count": 1,
+      "color": "Black"
+    }
+  ],
+  "paymentIntent": {
+    "amount": 300000,
+    "currency": "usd",
+    "status": "Cash On Delivery",
+    "created": 1624983666.483,
+    "payment_method_types": [
+      "cash"
+    ]
+  },
+  "orderdBy": {
+    "$oid": "6092f6b7ad0546469cacda49"
+  },
+  "createdAt": {
+    "$date": "2021-06-29T16:21:06.487Z"
+  },
+  "updatedAt": {
+    "$date": "2021-06-29T16:21:06.487Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60db49287b5889550caee9f0"
+  },
+  "orderStatus": "Not Processed",
+  "products": [
+    {
+      "_id": {
+        "$oid": "60db49117b5889550caee9ed"
+      },
+      "product": {
+        "$oid": "60c218fa9f2dd0199441e75d"
+      },
+      "count": 1,
+      "color": "Silver"
+    },
+    {
+      "_id": {
+        "$oid": "60db49117b5889550caee9ee"
+      },
+      "product": {
+        "$oid": "60c2189c9f2dd0199441e75b"
+      },
+      "count": 1,
+      "color": "Brown"
+    },
+    {
+      "_id": {
+        "$oid": "60db49117b5889550caee9ef"
+      },
+      "product": {
+        "$oid": "60c2148642d84149281f101f"
+      },
+      "count": 1,
+      "color": "White"
+    }
+  ],
+  "paymentIntent": {
+    "id": "pi_1J7jj6I6euNYP6v9PqZAh0Tl",
+    "object": "payment_intent",
+    "amount": 3000,
+    "canceled_at": null,
+    "cancellation_reason": null,
+    "capture_method": "automatic",
+    "client_secret": "pi_1J7jj6I6euNYP6v9PqZAh0Tl_secret_ra132myD7ymC3254HfNGLpQLS",
+    "confirmation_method": "automatic",
+    "created": 1624983836,
+    "currency": "usd",
+    "description": null,
+    "last_payment_error": null,
+    "livemode": false,
+    "next_action": null,
+    "payment_method": "pm_1J7jjGI6euNYP6v9dfroxrYV",
+    "payment_method_types": [
+      "card"
+    ],
+    "receipt_email": null,
+    "setup_future_usage": null,
+    "shipping": null,
+    "source": null,
+    "status": "succeeded"
+  },
+  "orderdBy": {
+    "$oid": "6092f6b7ad0546469cacda49"
+  },
+  "createdAt": {
+    "$date": "2021-06-29T16:24:08.644Z"
+  },
+  "updatedAt": {
+    "$date": "2021-06-29T16:24:08.644Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60db533e55d8f1470ce8b405"
+  },
+  "orderStatus": "Not Processed",
+  "products": [
+    {
+      "_id": {
+        "$oid": "60db532855d8f1470ce8b403"
+      },
+      "product": {
+        "$oid": "60c218fa9f2dd0199441e75d"
+      },
+      "count": 1,
+      "color": "Silver"
+    },
+    {
+      "_id": {
+        "$oid": "60db532855d8f1470ce8b404"
+      },
+      "product": {
+        "$oid": "60c2150142d84149281f1022"
+      },
+      "count": 1,
+      "color": "Silver"
+    }
+  ],
+  "paymentIntent": {
+    "id": "pi_1J7kOlI6euNYP6v9b5WQleBS",
+    "object": "payment_intent",
+    "amount": 2000,
+    "canceled_at": null,
+    "cancellation_reason": null,
+    "capture_method": "automatic",
+    "client_secret": "pi_1J7kOlI6euNYP6v9b5WQleBS_secret_GPaqL57ByOWooo2cWAcjohaIg",
+    "confirmation_method": "automatic",
+    "created": 1624986419,
+    "currency": "usd",
+    "description": null,
+    "last_payment_error": null,
+    "livemode": false,
+    "next_action": null,
+    "payment_method": "pm_1J7kOuI6euNYP6v9FhLpJkLo",
+    "payment_method_types": [
+      "card"
+    ],
+    "receipt_email": null,
+    "setup_future_usage": null,
+    "shipping": null,
+    "source": null,
+    "status": "succeeded"
+  },
+  "orderdBy": {
+    "$oid": "6092f6b7ad0546469cacda49"
+  },
+  "createdAt": {
+    "$date": "2021-06-29T17:07:10.307Z"
+  },
+  "updatedAt": {
+    "$date": "2021-06-29T17:07:10.307Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60dc890ed8089120502d15d4"
+  },
+  "orderStatus": "Not Processed",
+  "products": [
+    {
+      "_id": {
+        "$oid": "60dc88f3d8089120502d15d2"
+      },
+      "product": {
+        "$oid": "60c218fa9f2dd0199441e75d"
+      },
+      "count": 1,
+      "color": "Silver"
+    },
+    {
+      "_id": {
+        "$oid": "60dc88f3d8089120502d15d3"
+      },
+      "product": {
+        "$oid": "60c218fa9f2dd0199441e75d"
+      },
+      "count": 1,
+      "color": "Silver"
+    }
+  ],
+  "paymentIntent": {
+    "id": "pi_1J851wI6euNYP6v9Y7XH3lgz",
+    "object": "payment_intent",
+    "amount": 2000,
+    "canceled_at": null,
+    "cancellation_reason": null,
+    "capture_method": "automatic",
+    "client_secret": "pi_1J851wI6euNYP6v9Y7XH3lgz_secret_6vIg1ZJy0xXfjcXb6MMZqsu7R",
+    "confirmation_method": "automatic",
+    "created": 1625065728,
+    "currency": "usd",
+    "description": null,
+    "last_payment_error": null,
+    "livemode": false,
+    "next_action": null,
+    "payment_method": "pm_1J8529I6euNYP6v9Jpq8uqhW",
+    "payment_method_types": [
+      "card"
+    ],
+    "receipt_email": null,
+    "setup_future_usage": null,
+    "shipping": null,
+    "source": null,
+    "status": "succeeded"
+  },
+  "orderdBy": {
+    "$oid": "6092f6b7ad0546469cacda49"
+  },
+  "createdAt": {
+    "$date": "2021-06-30T15:09:02.357Z"
+  },
+  "updatedAt": {
+    "$date": "2021-06-30T15:09:02.357Z"
+  },
+  "__v": 0
+}]

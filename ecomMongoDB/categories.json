@@ -1,0 +1,53 @@
+[{
+  "_id": {
+    "$oid": "60a12ae22d53c54d10c1ab95"
+  },
+  "name": "Category 4",
+  "slug": "category-4",
+  "createdAt": {
+    "$date": "2021-05-16T14:23:30.439Z"
+  },
+  "updatedAt": {
+    "$date": "2021-06-29T16:30:09.337Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a15c7b562041321cd1c73f"
+  },
+  "name": "Category 3",
+  "slug": "category-3",
+  "createdAt": {
+    "$date": "2021-05-16T17:55:07.010Z"
+  },
+  "updatedAt": {
+    "$date": "2021-06-29T16:30:01.841Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a16d5f562041321cd1c784"
+  },
+  "name": "Category 2",
+  "slug": "category-2",
+  "createdAt": {
+    "$date": "2021-05-16T19:07:11.859Z"
+  },
+  "updatedAt": {
+    "$date": "2021-06-29T16:29:54.419Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a16ebe562041321cd1c787"
+  },
+  "name": "Category 1",
+  "slug": "category-1",
+  "createdAt": {
+    "$date": "2021-05-16T19:13:02.261Z"
+  },
+  "updatedAt": {
+    "$date": "2021-06-29T16:29:29.864Z"
+  },
+  "__v": 0
+}]
